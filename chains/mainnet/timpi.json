@@ -1,0 +1,16 @@
+{
+    "chain_name": "timpi",
+    "api": ["https://api-timpi.nodeist.net"],
+    "rpc": ["https://rpc-timpi.nodeist.net"],
+	"sdk_version": "v0.45.15",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "timpi",
+    "logo": "/logos/timpi.jpg",
+    "assets": [{
+        "base": "utimpiTN",
+        "symbol": "TIMPI",
+        "exponent": 6,
+        "logo": "/logos/timpi.jpg"
+    }]
+}

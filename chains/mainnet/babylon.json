@@ -1,0 +1,16 @@
+{
+    "chain_name": "babylon",
+    "api": ["https://babylon-testnet.nodejumper.io:1317"],
+    "rpc": ["https://babylon-testnet.nodejumper.io:443"],
+	"sdk_version": "v0.46.6",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "bbn",
+    "logo": "/logos/babylon.png",
+    "assets": [{
+        "base": "ubbn",
+        "symbol": "bbn",
+        "exponent": 6,
+        "logo": "/logos/babylon.png"
+    }]
+}

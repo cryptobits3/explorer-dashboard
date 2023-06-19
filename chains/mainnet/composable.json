@@ -1,0 +1,16 @@
+{
+    "chain_name": "composable",
+    "api": ["https://composable-testnet.api.kjnodes.com"],
+    "rpc": ["https://composable-testnet.rpc.kjnodes.com"],
+	"sdk_version": "v0.47.1",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "banksy",
+    "logo": "/logos/composable.jpg",
+    "assets": [{
+        "base": "ppica",
+        "symbol": "PICA",
+        "exponent": 18,
+        "logo": "/logos/composable.png"
+    }]
+}

@@ -1,0 +1,16 @@
+{
+    "chain_name": "hypersign",
+    "api": ["https://hypersign-testnet.api.kjnodes.com"],
+    "rpc": ["https://hypersign-testnet.rpc.kjnodes.com"],
+	"sdk_version": "v0.45.11",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "hid",
+    "logo": "/logos/hypersign.png",
+    "assets": [{
+        "base": "uhid",
+        "symbol": "HID",
+        "exponent": 6,
+        "logo": "/logos/hypersign.png"
+    }]
+}
